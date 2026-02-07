@@ -29,7 +29,7 @@ const Sections: React.FC = () => {
               className="text-lg font-medium"
               style={{ color: item.color }}
             >
-              {item.section}
+              {index + 1}. {item.section}
             </h2>
           ))}
         </div>
