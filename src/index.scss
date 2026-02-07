@@ -1,0 +1,18 @@
+
+
+/* SCSS HEX */
+$portage: #8b7dec;
+$mine-shaft: #202020;
+$ebb: #f0eded;
+$boulder: #767676;
+$tundora: #4a4646;
+$silver-chalice: #a3a3a3;
+$mexican-red: #9c2334;
+
+#root {
+    background-color: $mine-shaft;
+
+    .main-container {
+        padding: 20px;
+    }
+}

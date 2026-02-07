@@ -1,0 +1,2187 @@
+[
+    {
+        "date": "8. januára 1918",
+        "description": "Prezident Wilson predniesol v Kongrese USA svoj program 14 bodov.",
+        "color": "#E6194B"
+    },
+    {
+        "date": "11. novembra 1918",
+        "description": "Prvá svetová vojna sa skončila podpísaním prímerím s Nemeckom.",
+        "color": "#E6194B"
+    },
+    {
+        "date": "9. novembra 1918",
+        "description": "V Berlíne bola vyhlásená Weimarská republika a abdikoval cisár.",
+        "color": "#F58231"
+    },
+    {
+        "date": "18. januára 1919",
+        "description": "Oficiálne otvorenie Parížskej mierovej konferencie vo Francúzsku.",
+        "color": "#E6194B"
+    },
+    {
+        "date": "14. februára 1919",
+        "description": "Prijatie a zverejnenie paktu Spoločnosti národov.",
+        "color": "#E6194B"
+    },
+    {
+        "date": "Marec 1919",
+        "description": "Kominterna sa stala nástrojom ruskej zahraničnej politiky a v Taliansku sa formuje fašizmus.",
+        "color": "#F58231"
+    },
+    {
+        "date": "28. apríla 1919",
+        "description": "Schválenie Paktu Spoločnosti národov a jeho zahrnutie do mierových zmlúv.",
+        "color": "#E6194B"
+    },
+    {
+        "date": "28. júna 1919",
+        "description": "Podpísanie Versailleskej mierovej zmluvy s Nemeckom.",
+        "color": "#3CB44B"
+    },
+    {
+        "date": "10. septembra 1919",
+        "description": "Podpísanie Saint-Germainskej mierovej zmluvy s Rakúskom.",
+        "color": "#3CB44B"
+    },
+    {
+        "date": "27. novembra 1919",
+        "description": "Podpísanie Neuillskej mierovej zmluvy s Bulharskom.",
+        "color": "#3CB44B"
+    },
+    {
+        "date": "10. januára 1920",
+        "description": "Oficiálne založenie a vznik Spoločnosti národov.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "4. júna 1920",
+        "description": "Podpísanie Trianonskej mierovej zmluvy s Maďarskom.",
+        "color": "#3CB44B"
+    },
+    {
+        "date": "10. augusta 1920",
+        "description": "Podpísanie Sévreskej mierovej zmluvy s Tureckom.",
+        "color": "#3CB44B"
+    },
+    {
+        "date": "12. novembra 1921",
+        "description": "Začiatok Washingtonskej námornej konferencie o odzbrojení.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "13. decembra 1921",
+        "description": "Uzavretie Zmluvy štyroch mocností o zachovaní status quo v Tichomorí.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Január 1922",
+        "description": "Konferencia v Cannes o riešení hospodárskych problémov.",
+        "color": "#F58231"
+    },
+    {
+        "date": "6. februára 1922",
+        "description": "Podpísanie Zmluvy piatich mocností o limite námorných síl a Zmluvy deviatich mocností o Číne.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "10. apríla 1922",
+        "description": "Začiatok Janovskej hospodárskej konferencie s účasťou 29 štátov.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "16. apríla 1922",
+        "description": "Podpísanie Rapallskej zmluvy medzi Nemeckom a sovietskym Ruskom.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "19. mája 1922",
+        "description": "Ukončenie Janovskej konferencie bez výraznejšieho úspechu.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "20. novembra 1922",
+        "description": "Otvorenie mierovej konferencie v Lausanne o novej zmluve s Tureckom.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "30. decembra 1922",
+        "description": "Vznik Zväzu sovietskych socialistických republík (ZSSR).",
+        "color": "#F58231"
+    },
+    {
+        "date": "Január 1923",
+        "description": "Francúzsko a Belgicko obsadili Porúrie kvôli neplateniu reparácií.",
+        "color": "#F58231"
+    },
+    {
+        "date": "4. februára 1923",
+        "description": "Stretnutie predstaviteľov VB a Turecka ohľadom nároku na región Mosul.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "24. júla 1923",
+        "description": "Ukončenie konferencie v Lausanne a prijatie Dohovoru o úžinách.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "1924",
+        "description": "Prijatie Dawesovho plánu a uznanie ZSSR de jure Veľkou Britániou a Francúzskom.",
+        "color": "#F58231"
+    },
+    {
+        "date": "9. februára 1925",
+        "description": "Gustav Stresemann podal memorandum o ochote garantovať hranice na Rýne.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "5. októbra 1925",
+        "description": "Začiatok konferencie v Locarne o bezpečnostných zárukách.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "16. októbra 1925",
+        "description": "Ukončenie rokovaní v Locarne a prijatie siedmich dokumentov.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "1. decembra 1925",
+        "description": "Formálny podpis Locarnských dohôd v Londýne.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Apríl 1926",
+        "description": "Podpísanie Berlínskej zmluvy o priateľstve a neutralite medzi Nemeckom a ZSSR.",
+        "color": "#F58231"
+    },
+    {
+        "date": "27. augusta 1928",
+        "description": "Podpísanie Briand-Kellogovho paktu o zrieknutí sa vojny.",
+        "color": "#F58231"
+    },
+    {
+        "date": "1929",
+        "description": "Aristide Briand navrhol vytvorenie federálneho zväzku európskych štátov.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Máj 1930",
+        "description": "Vlády európskych štátov dostali memorandum o Paneurópskej únii.",
+        "color": "#F58231"
+    },
+    {
+        "date": "18. septembra 1931",
+        "description": "Vpád Japonska do Mandžuska a začiatok okupácie.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "9. marca 1932",
+        "description": "Vytvorenie bábkového štátu Mandžukuo pod vplyvom Japonska.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "1933",
+        "description": "Nástup Adolfa Hitlera k moci a vystúpenie Japonska zo Spoločnosti národov.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "14. októbra 1933",
+        "description": "Nemecko oznámilo neúčasť na odzbrojovacej konferencii v Ženeve.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "19. októbra 1933",
+        "description": "Oficiálne vystúpenie Nemecka zo Spoločnosti národov.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "1934",
+        "description": "Vstup Sovietskeho zväzu do Spoločnosti národov.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "Apríl 1934",
+        "description": "Louis Barthou navštívil Poľsko kvôli projektu Východného Locarna.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "Júl 1934",
+        "description": "Československo uznalo Sovietsky zväz de iure.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "1935",
+        "description": "Zavedenie všeobecnej brannej povinnosti v Nemecku a útok Talianska na Etiópiu.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "2. mája 1935",
+        "description": "Podpísanie zmluvy o vzájomnej pomoci medzi Francúzskom a ZSSR.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "16. mája 1935",
+        "description": "Podpísanie zmluvy o vzájomnej pomoci medzi ZSSR a Československom.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "1936",
+        "description": "Začiatok občianskej vojny v Španielsku a obsadenie Porýnia Nemeckom.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "1937",
+        "description": "Začiatok masívneho dobývania Číny Japonskom.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "Marec 1938",
+        "description": "Anšlus Rakúska k nacistickému Nemecku.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "21. apríla 1938",
+        "description": "Hitler sa radil s generálom Keitelom o podrobnostiach útoku na ČSR (Plán zelený).",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "20. mája 1938",
+        "description": "ČSR vyhlásila čiastočnú mobilizáciu v reakcii na koncentráciu nemeckých vojsk.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "7. septembra 1938",
+        "description": "Československá vláda predložila štvrtý plán plniaci Henleinove požiadavky.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "12. septembra 1938",
+        "description": "Hitler v Norimbergu žiadal odstúpenie sudetonemeckého územia.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "19. septembra 1938",
+        "description": "Anglo-francúzske návrhy o poskytnutí medzinárodnej záruky pre nové hranice ČSR.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "22. septembra 1938",
+        "description": "Chamberlain doručil Hitlerovi správu o československej kapitulácii.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "29. septembra 1938",
+        "description": "Začiatok Mníchovskej konferencie štyroch mocností.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "30. septembra 1938",
+        "description": "Podpísanie Mníchovskej dohody o odstúpení pohraničia ČSR.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "5. októbra 1938",
+        "description": "Prezident Edvard Beneš sa vzdal svojho úradu.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "7. októbra 1938",
+        "description": "Termín ukončenia odovzdania sudetských území v štyroch pásmach.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "Marec 1939",
+        "description": "Nemecká okupácia zvyšku Česko-Slovenska a britsko-francúzske záruky Poľsku.",
+        "color": "#BCF60C"
+    },
+    {
+        "date": "18. marca 1939",
+        "description": "Sovietsky návrh na zvolanie konferencie po okupácii Prahy.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "21. augusta 1939",
+        "description": "ZSSR odvolal rokovania so západnými mocnosťami.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "22. augusta 1939",
+        "description": "Joachim von Ribbentrop prilieta do Moskvy na rokovania.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "23. augusta 1939",
+        "description": "Podpísanie Paktu Molotov-Ribbentrop o neútočení medzi ZSSR a Nemeckom.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "28. septembra 1939",
+        "description": "Podpísanie druhého tajného dodatku o spresnení hraníc a sféry vplyvu.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "10. januára 1941",
+        "description": "Podpísanie tretieho tajného dodatku, v ktorom sa Nemecko zrieklo nárokov na časť Litvy.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "22. júna 1941",
+        "description": "Nemecký útok na Sovietsky zväz, čím bol pakt o neútočení porušený.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "8. apríla 1946",
+        "description": "Začiatok posledného slávnostného zasadnutia Spoločnosti národov.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "18. apríla 1946",
+        "description": "Spoločnosť národov preniesla svoje poslanie na OSN.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "31. júla 1947",
+        "description": "Legitímny a definitívny zánik Spoločnosti národov.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "Marec 1919",
+        "description": "Začiatok formovania talianskeho fašizmu z radov dôstojníkov.",
+        "color": "#008080"
+    },
+    {
+        "date": "1919",
+        "description": "Založenie Maďarskej organizácie obrany a prvej fašistickej organizácie v Rumunsku.",
+        "color": "#008080"
+    },
+    {
+        "date": "1919",
+        "description": "Mussolini založil fašistické hnutie a polovojenské ozbrojené oddiely.",
+        "color": "#FFFAC8"
+    },
+    {
+        "date": "Apríl 1919",
+        "description": "Talianski predstavitelia odišli z Parížskej mierovej konferencie kvôli územným nárokom.",
+        "color": "#FFFAC8"
+    },
+    {
+        "date": "16. novembra 1919",
+        "description": "Volebné víťazstvo Národného bloku vo Francúzsku.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "17. januára 1920",
+        "description": "Georges Clemenceau nezvíťazil v prezidentských voľbách a odstúpil z čela vlády.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "1920",
+        "description": "Kappov puč – pokus radikálnych síl o zvrhnutie Weimarskej republiky.",
+        "color": "#808000"
+    },
+    {
+        "date": "1921",
+        "description": "Talianska fašistická strana rozpútala na území štátu drobnú občiansku vojnu.",
+        "color": "#008080"
+    },
+    {
+        "date": "1921",
+        "description": "Adolf Hitler sa stal predsedom nacistickej strany NSDAP.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "10. apríla 1922",
+        "description": "Začiatok Janovskej hospodárskej konferencie s cieľom obnovy Európy.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Október 1922",
+        "description": "Fašistický pochod na Rím, ktorý viedol k odovzdaniu moci Mussolinimu.",
+        "color": "#008080"
+    },
+    {
+        "date": "24. októbra 1922",
+        "description": "Fašistické zhromaždenie v Neapole, kde padlo rozhodnutie pochodovať na Rím.",
+        "color": "#FFFAC8"
+    },
+    {
+        "date": "15. novembra 1922",
+        "description": "Volebné víťazstvo britskej konzervatívnej strany pod vedením A. Bonar Lawa.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1922",
+        "description": "Nástup vlády Raymonda Poincarého vo Francúzsku s protinemeckým kurzom.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "1923",
+        "description": "Vznik prvej fašistickej strany v Holandsku.",
+        "color": "#008080"
+    },
+    {
+        "date": "1923",
+        "description": "Etiópia sa stala za prispenia Francúzska členom Spoločnosti národov.",
+        "color": "#800000"
+    },
+    {
+        "date": "1923",
+        "description": "Nacistický pokus o prevrat v Mníchove, známy ako pivný puč.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "1923",
+        "description": "Okupácia Porýnia Francúzskom kvôli neplateniu nemeckých reparácií.",
+        "color": "#808000"
+    },
+    {
+        "date": "1. októbra 1923",
+        "description": "Začiatok britskej ríšskej konferencie, ktorá ukázala rozpory v impériu.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "6. decembra 1923",
+        "description": "Konzervatívci prehrali voľby, väčšinu získali liberáli a labouristi.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "22. januára 1924",
+        "description": "Vytvorenie prvej labouristickej vlády vo Veľkej Británii (R. MacDonald).",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "29. októbra 1924",
+        "description": "Volebné víťazstvo britských konzervatívcov.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1924",
+        "description": "Prijatie Dawesovho plánu na hospodárske oživenie Nemecka.",
+        "color": "#808000"
+    },
+    {
+        "date": "September 1925",
+        "description": "Obnovenie zlatého štandardu britskej libry.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "31. júla 1925",
+        "description": "Britská vláda bola prinútená k ústupkom voči banskej federácii.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1926",
+        "description": "Víťazstvo fašistov v talianskych voľbách a začiatok otvorenej diktatúry.",
+        "color": "#008080"
+    },
+    {
+        "date": "1926",
+        "description": "Nástup generála Tanaku v Japonsku a rozvoj militaristického fašizmu.",
+        "color": "#008080"
+    },
+    {
+        "date": "1926",
+        "description": "Vstup Nemecka do Spoločnosti národov.",
+        "color": "#808000"
+    },
+    {
+        "date": "Máj 1926",
+        "description": "Začiatok generálnej stávky britského robotníctva na podporu baníkov.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "28. júna 1927",
+        "description": "Zákon o odboroch vo VB, ktorý vyhlásil generálne stávky za nezákonné.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1928",
+        "description": "Zrušenie parlamentu v Taliansku a vymenovanie Veľkej fašistickej rady.",
+        "color": "#008080"
+    },
+    {
+        "date": "1928",
+        "description": "Nastolenie Salazarovej diktatúry v Portugalsku.",
+        "color": "#008080"
+    },
+    {
+        "date": "1928",
+        "description": "Volebné víťazstvo pravice vo Francúzsku.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "1929",
+        "description": "Nastolenie vojenskej diktatúry v Juhoslávii a zákaz organizácie Železný vlk v Litve.",
+        "color": "#008080"
+    },
+    {
+        "date": "24. októbra 1929",
+        "description": "Krach na Newyorskej burze a začiatok svetovej hospodárskej krízy.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "30. mája 1929",
+        "description": "Volebná porážka konzervatívcov vo Veľkej Británii.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1930",
+        "description": "Vznik prvej fašistickej strany v Dánsku podľa vzoru NSDAP.",
+        "color": "#008080"
+    },
+    {
+        "date": "1930",
+        "description": "Nacistická NSDAP sa v nemeckých voľbách umiestnila na druhom mieste.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "19. marca 1920",
+        "description": "Senát USA definitívne odmietol vstup do Spoločnosti národov.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "21. septembra 1931",
+        "description": "Zrušenie zlatého štandardu libry vo Veľkej Británii.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1932",
+        "description": "Založenie Britskej fašistickej strany na čele so sirom Oswaldom Mosleym.",
+        "color": "#008080"
+    },
+    {
+        "date": "1932",
+        "description": "Volebné víťazstvo demokratov v USA a porážka republikánov.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "1932",
+        "description": "Hitler kandidoval na úrad nemeckého ríšskeho prezidenta.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "Júl 1932",
+        "description": "Nacistická NSDAP vyhrala parlamentné voľby v Nemecku.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "1933",
+        "description": "Vznik Flámskeho nacionálneho zväzu v Belgicku a fašistickej strany v Poľsku.",
+        "color": "#008080"
+    },
+    {
+        "date": "30. januára 1933",
+        "description": "Adolf Hitler bol menovaný za nemeckého ríšskeho kancelára.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "27. februára 1933",
+        "description": "Požiar Ríšskeho snemu, ktorý nacisti využili na obmedzenie občianskych práv.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "4. marca 1933",
+        "description": "Franklin D. Roosevelt sa stal prezidentom Spojených štátov.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "1933",
+        "description": "Vyhlásenie bojkotu židovských obchodov v Nemecku.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "Jeseň 1934",
+        "description": "Taliansko začalo otvorene prepravovať vojnový materiál do Afriky.",
+        "color": "#800000"
+    },
+    {
+        "date": "5. decembra 1934",
+        "description": "Vážny ozbrojený incident medzi Talianmi a Etiópčanmi pri oáze Wal Wal.",
+        "color": "#800000"
+    },
+    {
+        "date": "30. júna 1934",
+        "description": "Noc dlhých nožov – vyvraždenie vedenia jednotiek SA v Nemecku.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "30. januára 1934",
+        "description": "Vláda USA uskutočnila devalváciu meny v rámci programu New Deal.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "7. februára 1935",
+        "description": "Podpísanie rímskej dohody medzi Francúzskom a Talianskom o koloniálnych nárokoch.",
+        "color": "#800000"
+    },
+    {
+        "date": "3. októbra 1935",
+        "description": "Začiatok talianskej vojenskej agresie voči Etiópii.",
+        "color": "#800000"
+    },
+    {
+        "date": "15. septembra 1935",
+        "description": "Prijatie norimberských rasových zákonov v nacistickom Nemecku.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "2. mája 1935",
+        "description": "Podpísanie francúzsko-sovietskej zmluvy o vzájomnej pomoci.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "7. júna 1935",
+        "description": "Vytvorenie novej britskej konzervatívnej vlády pod vedením S. Baldwina.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "22. decembra 1935",
+        "description": "Anthony Eden vystriedal S. Hoarea na poste ministra zahraničných vecí VB.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "Január 1936",
+        "description": "Dohoda o politickom programe Ľudového frontu vo Francúzsku.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "4. júna 1936",
+        "description": "Vytvorenie francúzskej vlády Léona Bluma po páde Lavala.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "5. mája 1936",
+        "description": "Talianske vojská obsadili Addis Abebu, hlavné mesto Etiópie.",
+        "color": "#800000"
+    },
+    {
+        "date": "9. mája 1936",
+        "description": "Taliansky kráľ vyhlásil dekrét o pripojení Etiópie k Taliansku.",
+        "color": "#800000"
+    },
+    {
+        "date": "29. februára 1936",
+        "description": "Prijatie zákona o permanentnej neutralite Spojených štátov.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "3. novembra 1936",
+        "description": "Drvivé volebné víťazstvo Franklina D. Roosevelta v USA.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "December 1936",
+        "description": "Britský kráľ Eduard VIII. abdikoval, nastúpil Juraj VI.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "28. mája 1937",
+        "description": "Neville Chamberlain sa stal britským premiérom po demisii Baldwina.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1938",
+        "description": "Edouard Daladier vytvoril vo Francúzsku vládu národnej obrany.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "9. novembra 1938",
+        "description": "Krištáľová noc – nacistický pogrom na židovské obyvateľstvo v Nemecku.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "1. apríla 1939",
+        "description": "Koniec občianskej vojny v Španielsku a nastolenie Frankovej diktatúry.",
+        "color": "#008080"
+    },
+    {
+        "date": "5. septembra 1939",
+        "description": "Spojené štáty vyjadrili svoju neutralitu po vypuknutí 2. sv. vojny.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "11. novembra 1918",
+        "description": "Oficiálne ukončenie prvej svetovej vojny v Európe.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "Máj 1918",
+        "description": "Začiatok krvavej občianskej vojny v Rusku medzi červenými a bielymi.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "Január 1918",
+        "description": "Vznik Ruskej sovietskej federatívnej socialistickej republiky (RSFSR).",
+        "color": "#FF4500"
+    },
+    {
+        "date": "Júl 1918",
+        "description": "Zavraždenie cárskej rodiny Romanovcov pri Jekaterinburgu.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "1918 – 1921",
+        "description": "Prebiehala protiboľševická vzbura námorníkov v Kronstadte.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "1918 – 1922",
+        "description": "Trvanie občianskej vojny v Rusku a potvrdzovanie komunistických princípov.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "20. roky",
+        "description": "Obdobie rozkvetu národností a zavedenia Novej ekonomickej politiky (NEP) v Rusku.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "30. decembra 1922",
+        "description": "Oficiálny vznik Zväzu sovietskych socialistických republík (ZSSR).",
+        "color": "#FF4500"
+    },
+    {
+        "date": "1924",
+        "description": "Úmrtie Vladimíra Iljiča Lenina a následný boj o moc v strane.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "Do roku 1929",
+        "description": "Obdobie stabilného ekonomického rastu v Sovietskom Rusku.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "30. roky",
+        "description": "Nástup Josifa Stalina k moci, obdobie represií a veľkého teroru.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "1932 – 1933",
+        "description": "Veľký hladomor na Ukrajine a v Rusku spôsobený Stalinovou politikou.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "1935",
+        "description": "Vražda Sergeja Kirova a vstup Sovietskeho zväzu do Spoločnosti národov.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "23. augusta 1939",
+        "description": "Podpísanie dohody o neútočení (Pakt Molotov-Ribbentrop) v Moskve.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "18. júla 1936",
+        "description": "Začiatok občianskej vojny v Španielsku po povstaní v Maroku.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "1. apríla 1939",
+        "description": "Franco vyhlásil koniec občianskej vojny a nastolil diktatúru.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "1875",
+        "description": "Španielsko sa stalo konštitučnou monarchiou so systémom dvoch strán.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "1923",
+        "description": "Generál Primo de Rivera sa chopil moci a nastolil diktatúru v Španielsku.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "Január 1930",
+        "description": "Primo de Rivera sa vzdal funkcie kvôli strate podpory počas hospodárskej krízy.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "12. apríla 1931",
+        "description": "Voľby v Španielsku, po ktorých kráľ abdikoval a bola vyhlásená republika.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "1932",
+        "description": "Vydanie španielskeho agrárneho zákona umožňujúceho vyvlastňovať pôdu.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "1934 – 1936",
+        "description": "Výrazná radikalizácia španielskeho vidieka a nárast počtu štrajkov.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "Február 1936",
+        "description": "Víťazstvo Ľudového frontu v španielskych voľbách.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "14. marca 1936",
+        "description": "Zákaz španielskej Falangy a zatýkanie jej vedenia.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "7. apríla 1936",
+        "description": "Odvolanie španielskeho prezidenta Niceta Alcalá-Zamoraho.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "17. júla 1936",
+        "description": "Vypuknutie povstania v španielskom Maroku, začiatok občianskej vojny.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "Máj 1937",
+        "description": "Agenti NKVD donútili Larga Caballera odstúpiť z čela republikánov.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "Jún 1937",
+        "description": "Nacionalistom sa podarilo preniknúť do Baskicka a rozdeliť územie republikánov.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "Apríl 1938",
+        "description": "Španielsko bolo definitívne rozdelené na dve časti – Katalánsko a Madrid.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "26. januára 1939",
+        "description": "Nacionalistické vojská dobyli Barcelonu.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "Február 1939",
+        "description": "Západné mocnosti de iure uznali Francov režim.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "26. marca 1939",
+        "description": "Začatie rozhodujúceho útoku nacionalistov na Madrid.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "1975",
+        "description": "Úmrtie Francisca Franca a koniec autoritatívnej diktatúry v Španielsku.",
+        "color": "#42D4F4"
+    },
+    {
+        "date": "Marec 1938",
+        "description": "Anšlus Rakúska k nacistickému Nemecku.",
+        "color": "#BFEF45"
+    },
+    {
+        "date": "September 1938",
+        "description": "Mníchovská dohoda o odstúpení Sudet Nemecku.",
+        "color": "#BFEF45"
+    },
+    {
+        "date": "Marec 1939",
+        "description": "Okupácia zvyšku Česko-Slovenska nemeckými vojskami.",
+        "color": "#BFEF45"
+    },
+    {
+        "date": "August 1939",
+        "description": "Podpísanie paktu Ribbentrop-Molotov so Sovietskym zväzom.",
+        "color": "#BFEF45"
+    },
+    {
+        "date": "Apríl 1939",
+        "description": "Fašistické Taliansko okupovalo Albánsko.",
+        "color": "#BFEF45"
+    },
+    {
+        "date": "September 1939",
+        "description": "Vyhlásenie vojny Nemecku zo strany Veľkej Británie a Francúzska.",
+        "color": "#BFEF45"
+    },
+    {
+        "date": "1923",
+        "description": "Mussoliniho útok na ostrov Korfu ako demonštrácia sily.",
+        "color": "#FABED4"
+    },
+    {
+        "date": "1. september 1939",
+        "description": "Nemecký útok na Poľsko a začiatok prvej etapy druhej svetovej vojny.",
+        "color": "#469990"
+    },
+    {
+        "date": "3. september 1939",
+        "description": "Formálny vstup Francúzska a Anglicka do vojnového stavu s Nemeckom.",
+        "color": "#469990"
+    },
+    {
+        "date": "17. september 1939",
+        "description": "Sovietsky zväz zaútočil na Poľsko na základe tajných dodatkov paktu.",
+        "color": "#469990"
+    },
+    {
+        "date": "November 1939",
+        "description": "Začiatok sovietskeho útoku na Fínsko (zimná vojna).",
+        "color": "#469990"
+    },
+    {
+        "date": "13. marca 1940",
+        "description": "Podpísanie Moskovského mieru, ktorým sa skončila zimná vojna.",
+        "color": "#469990"
+    },
+    {
+        "date": "Jar 1940",
+        "description": "Nemecký prepad neutrálneho Dánska a Nórska.",
+        "color": "#469990"
+    },
+    {
+        "date": "Lete 1940",
+        "description": "Nemecká invázia do Beneluxu a Francúzska (Prípad žltý a červený).",
+        "color": "#469990"
+    },
+    {
+        "date": "14. júna 1940",
+        "description": "Nemecké vojská dobyli Paríž.",
+        "color": "#469990"
+    },
+    {
+        "date": "22. jún 1940",
+        "description": "Definitívna kapitulácia Francúzska.",
+        "color": "#469990"
+    },
+    {
+        "date": "September 1940",
+        "description": "Začiatok masívnej leteckej vojny o Britániu.",
+        "color": "#469990"
+    },
+    {
+        "date": "Jar 1941",
+        "description": "Nemecká pomoc Taliansku v Grécku (Operácia Marita).",
+        "color": "#469990"
+    },
+    {
+        "date": "22. jún 1941",
+        "description": "Začiatok nemeckého útoku na ZSSR (Operácia Barbarossa).",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "24. septembra 1941",
+        "description": "Sovietsky zväz sa oficiálne pridal k Atlantickej Charte.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "31. augusta 1941",
+        "description": "ZSSR dostalo prvú materiálnu pomoc od Veľkej Británie.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "5. decembra 1941",
+        "description": "Začiatok úspešnej sovietskej protiofenzívy v oblasti Moskvy.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "7. december 1941",
+        "description": "Japonský útok na Pearl Harbor bez vyhlásenia vojny.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "8. december 1941",
+        "description": "Spojené štáty americké oficiálne vstúpili do druhej svetovej vojny.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "4. – 7. jún 1942",
+        "description": "Rozhodujúca námorná bitka o Midway v Tichomorí.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "Jeseň 1942",
+        "description": "Druhá bitka o El Alamejn a víťazstvo Britov v Afrike.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "8. novembra 1942",
+        "description": "Začiatok spojeneckej operácie Torch – vylodenie v severnej Afrike.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "21. augusta 1942 – 2. februára 1943",
+        "description": "Priebeh bitky o Stalingrad, ktorá znamenala obrat vo vojne.",
+        "color": "#DCBEFF"
+    },
+    {
+        "date": "14. – 26. januára 1943",
+        "description": "Konferencia v Casablance medzi Rooseveltom a Churchillom.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "9. – 10. júla 1943",
+        "description": "Začiatok spojeneckej invázie na Sicíliu (Operácia Husky).",
+        "color": "#9A6324"
+    },
+    {
+        "date": "5. júla 1943",
+        "description": "Začiatok bitky pri Kursku – najväčšej tankovej bitky v dejinách.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "23. augusta 1943",
+        "description": "Oslobodenie Charkova a koniec bitky pri Kursku.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "3. septembra 1943",
+        "description": "Začiatok spojeneckej invázie na Apeninský polostrov (Taliansko).",
+        "color": "#9A6324"
+    },
+    {
+        "date": "28. novembra – 1. decembra 1943",
+        "description": "Teheránska konferencia Veľkej trojky o otvorení druhého frontu.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "26. januára 1944",
+        "description": "Úplné oslobodenie Leningradu z nemeckého obkľúčenia.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "6. júna 1944",
+        "description": "Operácia Overlord – vylodenie spojencov v Normandii (Deň D).",
+        "color": "#9A6324"
+    },
+    {
+        "date": "20. júla 1944",
+        "description": "Neúspešný atentát na Adolfa Hitlera v Rastenburgu (Valkýra).",
+        "color": "#9A6324"
+    },
+    {
+        "date": "22. júna 1944",
+        "description": "Začiatok operácie Bagration na oslobodenie Bieloruska.",
+        "color": "#800000"
+    },
+    {
+        "date": "1. augusta 1944",
+        "description": "Vypuknutie Varšavského povstania proti nemeckej okupácii.",
+        "color": "#800000"
+    },
+    {
+        "date": "29. augusta 1944",
+        "description": "Vypuknutie Slovenského národného povstania v Banskej Bystrici.",
+        "color": "#800000"
+    },
+    {
+        "date": "28. októbra 1944",
+        "description": "Obsadenie Banskej Bystrice nemeckými vojskami a potlačenie SNP.",
+        "color": "#800000"
+    },
+    {
+        "date": "December 1944",
+        "description": "Posledná veľká nemecká protiofenzíva v Ardenách.",
+        "color": "#800000"
+    },
+    {
+        "date": "4. – 11. februára 1945",
+        "description": "Jaltská konferencia o povojnovom usporiadaní Európy.",
+        "color": "#800000"
+    },
+    {
+        "date": "16. februára – 26. marca 1945",
+        "description": "Krvavá bitka o ostrov Iwó-džima v Tichomorí.",
+        "color": "#800000"
+    },
+    {
+        "date": "1. apríla 1945",
+        "description": "Začiatok útoku na japonský ostrov Okinava.",
+        "color": "#800000"
+    },
+    {
+        "date": "26. apríla 1945",
+        "description": "Začiatok priameho útoku Červenej armády na Berlín.",
+        "color": "#800000"
+    },
+    {
+        "date": "30. apríla 1945",
+        "description": "Samovražda Adolfa Hitlera v jeho berlínskom bunkri.",
+        "color": "#800000"
+    },
+    {
+        "date": "8. mája 1945",
+        "description": "Oficiálny koniec druhej svetovej vojny v Európe.",
+        "color": "#800000"
+    },
+    {
+        "date": "17. júla – 2. augusta 1945",
+        "description": "Postupimská konferencia o správe porazeného Nemecka.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "6. augusta 1945",
+        "description": "Zvrhnutie atómovej bomby na japonské mesto Hirošima.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "8. augusta 1945",
+        "description": "Sovietsky zväz vyhlásil vojnu Japonsku.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "9. augusta 1945",
+        "description": "Zvrhnutie druhej atómovej bomby na mesto Nagasaki.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "2. septembra 1945",
+        "description": "Podpísanie kapitulácie Japonska, definitívny koniec druhej svetovej vojny.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "20. novembra 1945",
+        "description": "Začiatok Norimberského procesu s nemeckými vojnovými zločincami.",
+        "color": "#AAFFC3"
+    },
+    {
+        "date": "11. marca 1941",
+        "description": "V USA bol prijatý Zákon o pôžičke a prenájme (Lend-Lease) na materiálnu pomoc spojencom.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "22. júna 1941",
+        "description": "Nemecko začalo operáciu Barbarossa – útok na Sovietsky zväz bez vyhlásenia vojny.",
+        "color": "#808000"
+    },
+    {
+        "date": "Koncom júna 1941",
+        "description": "Nemecké sily prenikli 600 km do vnútrozemia ZSSR a obsadili Pobaltie a Bielorusko.",
+        "color": "#808000"
+    },
+    {
+        "date": "12. júla 1941",
+        "description": "Podpísanie britsko-sovietskej dohody o vzájomnej pomoci v boji proti Nemecku.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "Polovica júla 1941",
+        "description": "V smolenskej kapse bolo zajatých približne 300 000 sovietskych vojakov.",
+        "color": "#808000"
+    },
+    {
+        "date": "August 1941",
+        "description": "Nemecká armáda zajala pri Kyjeve viac ako 600 000 sovietskych vojakov.",
+        "color": "#808000"
+    },
+    {
+        "date": "12. augusta 1941",
+        "description": "Roosevelt a Churchill podpísali Atlantickú chartu s cieľmi vojny a povojnového mieru.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "31. augusta 1941",
+        "description": "Sovietsky zväz dostal prvú materiálnu pomoc od Veľkej Británie.",
+        "color": "#808000"
+    },
+    {
+        "date": "24. septembra 1941",
+        "description": "Sovietsky zväz sa oficiálne pripojil k princípom Atlantickej charty.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "30. septembra 1941",
+        "description": "Začiatok nemeckého útoku na Moskvu s cieľom zničiť hlavné sily nepriateľa.",
+        "color": "#808000"
+    },
+    {
+        "date": "2. októbra 1941",
+        "description": "Nemcom sa podarilo obkľúčiť veľké zoskupenie sovietskych vojsk pred Moskvou.",
+        "color": "#808000"
+    },
+    {
+        "date": "Polovica novembra 1941",
+        "description": "Jesenné bahno v Rusku zmrzlo, čo umožnilo obnovenie nemeckého postupu na Moskvu.",
+        "color": "#808000"
+    },
+    {
+        "date": "30. novembra 1941",
+        "description": "Predsunuté nemecké jednotky dosiahli predmestia Moskvy.",
+        "color": "#808000"
+    },
+    {
+        "date": "4. decembra 1941",
+        "description": "Posledný nemecký pokus o prelomenie moskovskej obrany bol zastavený.",
+        "color": "#808000"
+    },
+    {
+        "date": "5. decembra 1941",
+        "description": "Začiatok mohutnej sovietskej protiofenzívy v oblasti Moskvy.",
+        "color": "#808000"
+    },
+    {
+        "date": "7. decembra 1941",
+        "description": "Japonský útok na Pearl Harbor a vstup USA do druhej svetovej vojny.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "8. decembra 1941",
+        "description": "Spojené štáty americké oficiálne vypovedali vojnu Japonsku.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "22. decembra 1941",
+        "description": "Začiatok prvej washingtonskej konferencie o koordinácii vojenských síl.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "1. januára 1942",
+        "description": "Podpísanie Deklarácie Spojených národov 26 štátmi vo Washingtone.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "Jar 1942",
+        "description": "Nemecká ofenzíva na južnom úseku frontu (Operácia Modrá) smerom na Kaukaz.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "8. apríla 1942",
+        "description": "Americký štáb predniesol plány na inváziu do Európy (Round up a Sledgehammer).",
+        "color": "#4363D8"
+    },
+    {
+        "date": "4. – 7. júna 1942",
+        "description": "Námorná bitka o Midway, v ktorej Japonsko utrpelo drvivú porážku.",
+        "color": "#A9A9A9"
+    },
+    {
+        "date": "Jún 1942",
+        "description": "Konala sa druhá washingtonská konferencia medzi USA a Veľkou Britániou.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "20. augusta 1942",
+        "description": "Nemecké vojská prekročili rieku Don a priblížili sa k Stalingradu.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "23. augusta 1942",
+        "description": "Začiatok bitky o Stalingrad masívnym nemeckým leteckým bombardovaním.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "Začiatok septembra 1942",
+        "description": "Nemeckej armáde sa podarilo preniknúť do severnej a južnej oblasti Stalingradu.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "12. septembra 1942",
+        "description": "Izolácia 62. a 64. sovietskej armády na západnom brehu Volgy.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "13. septembra 1942",
+        "description": "Začiatok priameho nemeckého útoku na samotný Stalingrad a Mamajovu mohylu.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "14. septembra 1942",
+        "description": "Tvrdá obrana hlavného prístaviska v Stalingrade sovietskymi posilami.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "Koniec októbra 1942",
+        "description": "Nemecká armáda ovládla 90 % územia mesta Stalingrad.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "8. novembra 1942",
+        "description": "Operácia Torch – spojenecké vylodenie v severozápadnej Afrike.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "11. novembra 1942",
+        "description": "Posledný nemecký pokus o definitívne vyčistenie Stalingradu.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "19. novembra 1942",
+        "description": "Začiatok operácie Uran – sovietsky protiútok na obkľúčenie Nemcov pri Stalingrade.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "Koniec novembra 1942",
+        "description": "Sovietske kliešťové obkľúčenie 6. nemeckej armády bolo uzavreté.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "3. decembra 1942",
+        "description": "Sovietsky štáb schválil Plán Saturn na likvidáciu nepriateľa v stalingradskej pasci.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "16. decembra 1942",
+        "description": "Volga definitívne zamrzla, čo uľahčilo zásobovanie obrancov Stalingradu.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "1. januára 1943",
+        "description": "Donský front bol posilnený pre záverečnú likvidáciu nemeckého obkľúčenia.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "10. januára 1943",
+        "description": "Začiatok operácie Koľco – sústredený útok na zvyšky 6. nemeckej armády.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "14. – 26. januára 1943",
+        "description": "Konferencia v Casablance – dohoda o požiadavke bezpodmienečnej kapitulácie Osi.",
+        "color": "#FFD8B1"
+    },
+    {
+        "date": "22. januára 1943",
+        "description": "Pád poslednej nemeckej zásobovacej základne a letiska v stalingradskom kotli.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "30. januára 1943",
+        "description": "Friedrich Paulus bol povýšený do hodnosti poľného maršala.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "2. februára 1943",
+        "description": "Oficiálna kapitulácia 6. nemeckej armády pri Stalingrade.",
+        "color": "#FFE119"
+    },
+    {
+        "date": "26. februára 1943",
+        "description": "Nemecký útok v Tunisku proti neskúseným spojeneckým jednotkám.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "6. marca 1943",
+        "description": "Rommelov neúspešný útok proti britským silám v Medeníne.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "9. marca 1943",
+        "description": "Erwin Rommel odišiel zo severnej Afriky na zotavenie do Nemecka.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "17. marca 1943",
+        "description": "Začiatok Pattonovho útoku východne od Ferjány v Afrike.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "27. marca 1943",
+        "description": "Britské vojská dorazili do Hammy a ohrozili nemecké pozície.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "13. mája 1943",
+        "description": "Definitívna kapitulácia všetkých vojsk Osi v severnej Afrike.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "9. – 10. júla 1943",
+        "description": "Začiatok operácie Husky – vylodenie spojencov na Sicílii.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "17. augusta 1943",
+        "description": "Spojenecké jednotky dobyli prístav Messina a ovládli Sicíliu.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "3. septembra 1943",
+        "description": "Operácia Avalanche – začiatok invázie spojencov do Talianska.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "9. septembra 1943",
+        "description": "Vylodenie amerických a britských jednotiek pri Salerne.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "16. septembra 1943",
+        "description": "Nemci sa stiahli do hôr a spojenecké predmostia boli zabezpečené.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1. októbra 1943",
+        "description": "Oslobodenie Neapola spojeneckými vojskami.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "18. októbra – 1. novembra 1943",
+        "description": "Moskovská konferencia ministrov zahraničných vecí Veľkej trojky.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "22. – 26. novembra 1943",
+        "description": "Káhirská konferencia o ďalšom postupe proti Japonsku.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "28. novembra – 1. decembra 1943",
+        "description": "Teheránska konferencia – prvé osobné stretnutie Stalina, Roosevelta a Churchilla.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "Január 1944",
+        "description": "Vrchné velenie spojencov prevzalo a modifikovalo plán operácie Overlord.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "22. januára 1944",
+        "description": "Operácia Shingle – spojenecké vylodenie pri Anziu v Taliansku.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "1. mája 1944",
+        "description": "Pôvodne prisľúbený termín otvorenia druhého frontu vo Francúzsku.",
+        "color": "#FF4500"
+    },
+    {
+        "date": "Máj 1944",
+        "description": "Spojencom sa podarilo preraziť nemeckú líniu pri Anziu.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "4. júna 1944",
+        "description": "Oslobodenie Ríma spojeneckými vojskami.",
+        "color": "#8b7dec"
+    },
+    {
+        "date": "5. júna 1944",
+        "description": "Pôvodne plánovaný termín Dňa D, odložený kvôli zlému počasiu.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "6. júna 1944",
+        "description": "Deň D – vylodenie spojencov v Normandii a otvorenie druhého frontu.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "27. júna 1944",
+        "description": "Spojenecké jednotky úspešne obsadili strategický prístav Cherbourg.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "8. – 11. júla 1944",
+        "description": "Rozhodujúce boje o mesto Caen, ktoré skončili jeho dobytím spojencami.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "20. júla 1944",
+        "description": "Neúspešný Stauffenbergov atentát na Hitlera v Rastenburgu.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "30. júla 1944",
+        "description": "Prieraz 3. armády generála Pattona cez medzeru pri Avranches.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "6. augusta 1944",
+        "description": "Úplný prielom z Normandie do vnútrozemia Francúzska.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "25. augusta 1944",
+        "description": "Oslobodenie Paríža spojeneckými jednotkami.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "30. augusta 1944",
+        "description": "Oficiálne ukončenie prvej fázy operácie Overlord.",
+        "color": "#4363D8"
+    },
+    {
+        "date": "22. júna 1941",
+        "description": "Začiatok nemeckého útoku na ZSSR podľa plánu Barbarossa.",
+        "color": "#F58231"
+    },
+    {
+        "date": "September 1941",
+        "description": "Začiatok druhej fázy nemeckej ofenzívy na východnom fronte.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Prelom septembra a októbra 1941",
+        "description": "Nemecká armádna skupina Stred zahájila priamy útok na Moskvu.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Polovica novembra 1941",
+        "description": "Nemecký postup na Moskvu uviazol kvôli jesenným dažďom a blatu.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Začiatok decembra 1941",
+        "description": "Sovietom sa podarilo zastaviť nemecký postup tesne pred Moskvou.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Január 1942",
+        "description": "Sovietska ofenzíva na celom fronte s cieľom oslobodiť Krym a Leningrad.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Koniec jari 1942",
+        "description": "Vojenská iniciatíva na východe prešla opäť do rúk Nemecka.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Máj 1942",
+        "description": "Stroskotanie sovietskeho útoku maršála Timošenka pri Charkove.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Júl 1942",
+        "description": "Nemecké vojská dobyli strategický prístav Sevastopol.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Jún 1942",
+        "description": "Nemecké vojská prešli do generálnej ofenzívy na južnom úseku frontu.",
+        "color": "#F58231"
+    },
+    {
+        "date": "16. júla 1942 – 31. januára 1943",
+        "description": "Priebeh bitky pri Stalingrade, ktorá znamenala obrat vo vojne.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Marec 1943",
+        "description": "Sovietsky útok dosiahol mestá Kursk a Charkov.",
+        "color": "#F58231"
+    },
+    {
+        "date": "5. júla 1943",
+        "description": "Začiatok nemeckého útoku na sovietsky výbežok pri Kursku (Operácia Citadela).",
+        "color": "#F58231"
+    },
+    {
+        "date": "12. júla 1943",
+        "description": "Najväčšia tanková bitka v dejinách pri dedinke Prochorovka.",
+        "color": "#F58231"
+    },
+    {
+        "date": "23. augusta 1943",
+        "description": "Oslobodenie Charkova a definitívne ukončenie bitky pri Kursku.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Koniec októbra 1943",
+        "description": "Sovietske vojská prelomili nemeckú obranu na rieke Dneper.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Január 1944",
+        "description": "Sovietske vojská začali viesť striedavé útoky na všetkých úsekoch frontu.",
+        "color": "#F58231"
+    },
+    {
+        "date": "20. júla 1944",
+        "description": "Neúspešný atentát na Adolfa Hitlera v jeho hlavnom stane.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Polovica januára 1945",
+        "description": "Sovietske vojská zaútočili v Poľsku a prenikli až k rieke Odra.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Marec 1945",
+        "description": "Maršál Žukov zničil krídelné zoskupenie nemeckých jednotiek pred Berlínom.",
+        "color": "#F58231"
+    },
+    {
+        "date": "13. februára 1945",
+        "description": "Sovietske vojská dobyli Budapešť.",
+        "color": "#F58231"
+    },
+    {
+        "date": "13. apríla 1945",
+        "description": "Sovietske jednotky maršála Malinovského dobyli Viedeň.",
+        "color": "#F58231"
+    },
+    {
+        "date": "16. apríla 1945",
+        "description": "Začiatok záverečného sovietskeho útoku na Berlín.",
+        "color": "#F58231"
+    },
+    {
+        "date": "30. apríla 1945",
+        "description": "Adolf Hitler spáchal samovraždu v berlínskom bunkri.",
+        "color": "#F58231"
+    },
+    {
+        "date": "2. mája 1945",
+        "description": "Kapitulácia nemeckej posádky v Berlíne a koniec bojov o mesto.",
+        "color": "#F58231"
+    },
+    {
+        "date": "7. mája 1945",
+        "description": "Podpísanie nemeckej kapitulácie v Remeši.",
+        "color": "#F58231"
+    },
+    {
+        "date": "8. mája 1945",
+        "description": "Oficiálny koniec vojny v Európe a opakovanie kapitulácie v Berlíne.",
+        "color": "#F58231"
+    },
+    {
+        "date": "9. mája 1945",
+        "description": "Vstup sovietskych tankov do oslobodenej Prahy.",
+        "color": "#F58231"
+    },
+    {
+        "date": "Leto 1940",
+        "description": "Japonsko získalo od vichistickej vlády právo používať letiská v Indočíne.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "September 1940",
+        "description": "Japonsko sa oficiálne pripojilo k Osi Berlín-Rím.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "Júl 1941",
+        "description": "Japonci okupovali zvyšok Indočíny, USA reagovali zmrazením ich fondov.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "Október 1941",
+        "description": "Generál Hideki Todžo sa stal predsedom japonskej vlády.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "1. decembra 1941",
+        "description": "Japonsko definitívne odmietlo americké podmienky na uvoľnenie fondov.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "6. decembra 1941",
+        "description": "Prezident Roosevelt poslal priamu výzvu japonskému cisárovi Hirohitovi.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "7. decembra 1941",
+        "description": "Japonský útok na americkú námornú základňu Pearl Harbor.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "8. decembra 1941",
+        "description": "Kongres USA vyhlásil vojnu Japonsku.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "6. januára 1942",
+        "description": "Prezident Roosevelt oznámil masívne ciele pre vojnovú výrobu v USA.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "Február 1942",
+        "description": "Začiatok internovania Američanov japonského pôvodu v USA.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "4. – 8. mája 1942",
+        "description": "Bitka v Koralovom mori – prvá bitka lietadlových lodí.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "18. mája 1942",
+        "description": "Americký nálet 16 bombardérov na Tokio (Doolittleov nálet).",
+        "color": "#911EB4"
+    },
+    {
+        "date": "4. – 7. júna 1942",
+        "description": "Bitka o Midway, v ktorej Japonsko utrpelo rozhodujúcu porážku.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "7. augusta 1942",
+        "description": "Vylodenie amerických jednotiek na ostrove Guadalcanal.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "24. augusta 1942",
+        "description": "Námorná bitka pri Východných Šalamúnoch.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "12. – 13. októbra 1942",
+        "description": "Námorná bitka pri myse Esperance.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "26. októbra 1942",
+        "description": "Námorná bitka pri ostrovoch Santa Cruz.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "13. – 15. novembra 1942",
+        "description": "Rozhodujúca námorná bitka o Guadalcanal.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "7. februára 1943",
+        "description": "Japonské vojská definitívne evakuovali ostrov Guadalcanal.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "Január 1944",
+        "description": "Americké vylodenie na Marshallových ostrovoch.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "19. – 21. júna 1944",
+        "description": "Bitka vo Filipínskom mori (tzv. Veľká mariánska streľba na moriakov).",
+        "color": "#911EB4"
+    },
+    {
+        "date": "24. – 26. októbra 1944",
+        "description": "Bitka pri Leyte – zničenie väčšiny japonského loďstva.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "16. februára – 26. marca 1945",
+        "description": "Krvavá bitka o japonský ostrov Iwó-džima.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "23. februára 1945",
+        "description": "Vztýčenie americkej zástavy na vrchu Suribači na Iwó-džime.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "1. apríla – 21. júna 1945",
+        "description": "Bitka o ostrov Okinava, odrazový mostík pre útok na Japonsko.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "6. augusta 1945",
+        "description": "Zvrhnutie prvej atómovej bomby na mesto Hirošima.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "8. augusta 1945",
+        "description": "Sovietsky zväz vyhlásil vojnu Japonsku.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "9. augusta 1945",
+        "description": "Zvrhnutie druhej atómovej bomby na mesto Nagasaki.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "2. septembra 1945",
+        "description": "Podpísanie kapitulácie Japonska na lodi Missouri, koniec 2. sv. vojny.",
+        "color": "#911EB4"
+    },
+    {
+        "date": "Koniec novembra 1941",
+        "description": "Kapitulácia posledných talianskych oddielov v Habeši (Etiópii).",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Január 1942",
+        "description": "Britské vojská dobyli pevnosť Sollúm v severnej Afrike.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Koniec apríla 1942",
+        "description": "Dohoda Hitlera a Mussoliniho v Berghofe o ofenzíve na Egypt.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Máj 1942",
+        "description": "Vylodenie britských vojsk na ostrove Madagaskar.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "August 1942",
+        "description": "Generál Eisenhower bol menovaný za vrchného veliteľa inváznych vojsk v Afrike.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Začiatok decembra 1942",
+        "description": "Briti porazili nemecko-taliansky front pri El Alamejne.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "11. decembra 1942",
+        "description": "Hitler rozkázal obsadiť zvyšnú neokupovanú časť Francúzska.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Január 1943",
+        "description": "Jednotky Slobodných Francúzov obsadili južnú časť Líbye.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "10. júla 1943",
+        "description": "Vylodenie spojencov na Sicílii, čo prinútilo Nemcov oslabiť východný front.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "25. júla 1943",
+        "description": "Benito Mussolini bol zosadený a uväznený.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "8. septembra 1943",
+        "description": "Oficiálna kapitulácia Talianska.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Marec 1944",
+        "description": "Spojenecké vylodenie pri Anziu v Taliansku.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Máj 1944",
+        "description": "Spojenci prelomili nemecký front pri Monte Cassine.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Začiatok júna 1944",
+        "description": "Spojenecké vojská obsadili Rím.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Apríl 1945",
+        "description": "Spojenci prekročili rieku Pád v severnom Taliansku.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "2. mája 1945",
+        "description": "Kapitulácia nemeckých vojsk v severnom Taliansku.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Október 1944",
+        "description": "Nemecké vojská definitívne opustili Grécko.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "Február 1945",
+        "description": "Dohoda o zastavení občianskej vojny v Grécku.",
+        "color": "#46F0F0"
+    },
+    {
+        "date": "25. apríla 1945",
+        "description": "Stretnutie sovietskych a anglo-amerických vojsk pri Torgau na Labe.",
+        "color": "#F032E6"
+    },
+    {
+        "date": "August 1941",
+        "description": "Roosevelt a Churchill sa zišli na lodi a formulovali Atlantickú chartu.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "24. septembra 1941",
+        "description": "Prijatie Medzispojeneckej rezolúcie v Londýne ako základu pre OSN.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "1. januára 1942",
+        "description": "Podpísanie Washingtonskej deklarácie 26 štátmi bojujúcimi proti Osi.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "1. marca 1945",
+        "description": "Konečný termín, dokedy sa štáty mohli pripojiť k deklarácii OSN.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "19. – 30. októbra 1943",
+        "description": "Moskovská konferencia ministrov zahraničia o budúcej mierovej organizácii.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "9. októbra 1944",
+        "description": "Uverejnenie návrhu na vytvorenie všeobecnej organizácie Spojené národy.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "25. apríla – 26. júna 1945",
+        "description": "Konferencia v San Franciscu o založení Organizácie Spojených národov.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "26. júna 1945",
+        "description": "Slávnostné podpísanie Charty OSN zakladajúcimi štátmi.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "24. októbra 1945",
+        "description": "Charta OSN nadobudla platnosť po ratifikácii kľúčovými štátmi.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "1947",
+        "description": "Schválenie stáleho sídla OSN v New Yorku.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "1993",
+        "description": "Slovenská republika sa stala samostatným členom OSN.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "1946",
+        "description": "Vznik detského fondu UNICEF na pomoc po vojne.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "1953",
+        "description": "UNICEF získal od OSN trvalý mandát.",
+        "color": "#FABEBE"
+    },
+    {
+        "date": "1945 – 1946",
+        "description": "Pokusy ZSSR vytvoriť pro-sovietske štáty v Iráne u Kurdov a Azerov.",
+        "color": "#008080"
+    },
+    {
+        "date": "Máj 1945",
+        "description": "Winston Churchill prvýkrát použil termín bariéra (železná opona) v liste Trumanovi.",
+        "color": "#008080"
+    },
+    {
+        "date": "Marec 1946",
+        "description": "Winston Churchill predniesol fultonský prejav o železnej opone.",
+        "color": "#008080"
+    },
+    {
+        "date": "Február 1946",
+        "description": "Stalinov prejav v Moskve predpovedajúci konflikt s kapitalizmom.",
+        "color": "#008080"
+    },
+    {
+        "date": "12. marca 1947",
+        "description": "Vyhlásenie Trumanovej doktríny o zadržiavaní komunizmu.",
+        "color": "#008080"
+    },
+    {
+        "date": "1947",
+        "description": "Vyhlásenie Marshallovho plánu na ekonomickú obnovu Európy.",
+        "color": "#008080"
+    },
+    {
+        "date": "Júl 1947",
+        "description": "Molotov v mene ZSSR oficiálne zamietol Marshallov plán.",
+        "color": "#008080"
+    },
+    {
+        "date": "Január 1949",
+        "description": "V Moskve bola založená Rada vzájomnej hospodárskej pomoci (RVHP).",
+        "color": "#008080"
+    },
+    {
+        "date": "1948 – 1949",
+        "description": "Prvá berlínska kríza ako dôsledok sporov o menu a správu mesta.",
+        "color": "#008080"
+    },
+    {
+        "date": "Apríl 1949",
+        "description": "Vznik severoatlantickej aliancie NATO.",
+        "color": "#008080"
+    },
+    {
+        "date": "12. apríla 1945",
+        "description": "Smrť prezidenta Roosevelta a nástup Harryho Trumana do úradu.",
+        "color": "#E6BEFF"
+    },
+    {
+        "date": "Jún 1945",
+        "description": "Stalin prijal zákon o demobilizácii armády v rámci ZSSR.",
+        "color": "#E6BEFF"
+    },
+    {
+        "date": "Október 1945",
+        "description": "Stalin oznámil americkému veľvyslancovi prechod k izolacionizmu.",
+        "color": "#E6BEFF"
+    },
+    {
+        "date": "1946",
+        "description": "USA predložili Baruchov plán na medzinárodnú kontrolu atómovej energie.",
+        "color": "#E6BEFF"
+    },
+    {
+        "date": "Máj 1947",
+        "description": "Vylúčenie komunistických strán z vlád vo Francúzsku a Taliansku.",
+        "color": "#E6BEFF"
+    },
+    {
+        "date": "September 1947",
+        "description": "Založenie Informbyra ako nástroja na koordináciu komunistických strán.",
+        "color": "#E6BEFF"
+    },
+    {
+        "date": "1950 – 1953",
+        "description": "Kórejská vojna, hlavný konflikt ranej studenej vojny.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "25. júna 1950",
+        "description": "Severná Kórea napadla južnú časť polostrova.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "Január 1951",
+        "description": "Stalin sa tajne zmienil o možnosti invázie do západnej Európy.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "Marec 1953",
+        "description": "Smrť Josifa Stalina a začiatok zmien v sovietskom vedení.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "Apríl 1953",
+        "description": "Prezident Eisenhower vyhlásil podmienky pre uvoľnenie napätia.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "27. júla 1953",
+        "description": "Podpísanie prímeria v Pchanmundžone, koniec bojov v Kórei.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1955 – 1956",
+        "description": "Obdobie prvého dočasného uvoľnenia (détente).",
+        "color": "#9A6324"
+    },
+    {
+        "date": "Október 1956",
+        "description": "Sovietske vojská brutálne potlačili maďarskú revolúciu.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1961",
+        "description": "Druhá berlínska kríza a stavba Berlínskeho múru.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "Október 1962",
+        "description": "Karibská kríza – svet bol na pokraji jadrovej vojny.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "22. októbra 1962",
+        "description": "Prezident Kennedy vyhlásil námornú blokádu Kuby.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "28. októbra 1962",
+        "description": "Chruščov súhlasil so stiahnutím rakiet z Kuby, koniec krízy.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1963",
+        "description": "Podpísanie zmluvy o zákaze jadrových skúšok v troch sférach.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1969",
+        "description": "ZSSR navrhol usporiadať konferenciu o európskej bezpečnosti.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1972",
+        "description": "Návšteva prezidenta Nixona v Moskve a uznanie rovnakej bezpečnosti.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1973 – 1975",
+        "description": "Konferencia o bezpečnosti a spolupráci v Európe v Helsinkách.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1979",
+        "description": "Sovietska invázia do Afganistanu a koniec obdobia uvoľnenia.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1981",
+        "description": "Nástup Ronalda Reagana do úradu prezidenta USA a zbrojný program SDI.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1985",
+        "description": "Nástup Michaila Gorbačova a začiatok politiky perestrojky.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1989",
+        "description": "Odchod sovietskych vojsk z Afganistanu.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "November 1990",
+        "description": "Prijatie Parížskej charty o novej Európe, symbolický koniec studenej vojny.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1991",
+        "description": "Definitívny rozpad Sovietskeho zväzu.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1952",
+        "description": "K moci sa na Kube dostal diktátor Batista.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1959",
+        "description": "Víťazstvo revolúcie na Kube a nástup Fidela Castra.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1946 – 1954",
+        "description": "Prvá vietnamská vojna medzi Francúzskom a Viet-minhom.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1945",
+        "description": "Ho Či Min vyhlásil nezávislú Vietnamskú demokratickú republiku.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "Máj 1954",
+        "description": "Porážka Francúzov pri Dien Bien Phu a koniec ich nadvlády v Indočíne.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1964 – 1973/75",
+        "description": "Druhá vietnamská vojna za účasti USA.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "August 1964",
+        "description": "Tonkinský incident, ktorý viedol k plnému zapojeniu USA do vojny.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1968",
+        "description": "Prezident Nixon začal sériu rokovaní o ukončení vietnamského konfliktu.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "27. januára 1973",
+        "description": "Podpísanie dohôd o prímerí vo Vietname v Paríži.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "Apríl 1975",
+        "description": "Pád Saigonu a zjednotenie Vietnamu pod komunistickou vládou.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1978",
+        "description": "K moci sa v Afganistane dostala marxistická strana.",
+        "color": "#9A6324"
+    },
+    {
+        "date": "1996",
+        "description": "Hnutie Taliban dobylo Kábul a vyhlásilo islamský štát.",
+        "color": "#9A6324"
+    }
+]
