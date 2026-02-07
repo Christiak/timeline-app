@@ -9,8 +9,14 @@ $tundora: #4a4646;
 $silver-chalice: #a3a3a3;
 $mexican-red: #9c2334;
 
+html,
+body,
 #root {
-    background-color: $mine-shaft;
+    height: 100%;
+    background-color: #202020;
+    /* Match your app background */
+    margin: 0;
+    padding: 0;
 
     .main-container {
         padding: 20px;
