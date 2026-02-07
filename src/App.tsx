@@ -1,5 +1,6 @@
 
-import Sections from "./components/sections";
+
+import Sections from "./components/Sections";
 import Timeline from "./components/Timeline";
 
 
