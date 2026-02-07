@@ -1,5 +1,5 @@
 import React from 'react';
-import timelineData from "../../data.json";
+import timelineData from '../../data.json';
 
 type TimelineEntry = {
 	date: string;
