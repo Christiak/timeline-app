@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import sections from '../../sections2.json'
+import sections from '../../sections.json'
 
 interface SectionItem {
   section: string
