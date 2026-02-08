@@ -1,198 +1,198 @@
 [
     {
         "section": "Parížska mierová konferencia",
-        "color": "#E6194B"
+        "color": "#FFD700"
     },
     {
         "section": "Mierové zmluvy prijaté na Parižskej mierovej konferncií",
-        "color": "#3CB44B"
+        "color": "#87CEEB"
     },
     {
         "section": "Spoločnosť národov",
-        "color": "#FFE120"
+        "color": "#90EE90"
     },
     {
         "section": "Základný dokument - pakt SN",
-        "color": "#4363D8"
+        "color": "#FFB6C1"
     },
     {
         "section": "Medzinárodné vzťahy v 20. rokoch",
-        "color": "#F58231"
+        "color": "#FFA07A"
     },
     {
         "section": "Vytvorenie novej Európy a sveta po I. sv. vojne",
-        "color": "#911EB4"
+        "color": "#E0FFFF"
     },
     {
         "section": "Najvýznamnejšie konferencie v 20. rokoch 20. storočia",
-        "color": "#46F0FA"
+        "color": "#F0E68C"
     },
     {
         "section": "30. roky - charakteristika medzinárodných vzťahov/1. polovica a 2. polovica",
-        "color": "#F032E6"
+        "color": "#DDA0DD"
     },
     {
         "section": "Mníchovská konferencia",
-        "color": "#BCF60C"
+        "color": "#FF6347"
     },
     {
         "section": "Pakt o neútočení medzi ZSSR a Nemeckom",
-        "color": "#FABEBE"
+        "color": "#00FA9A"
     },
     {
         "section": "Príčiny a zdroje nástupu fašizmu v Európe",
-        "color": "#008080"
+        "color": "#AFEEEE"
     },
     {
         "section": "Politika kolektívnej bezpečnosti v 30. rokoch",
-        "color": "#E6BEFF"
+        "color": "#FFDEAD"
     },
     {
         "section": "Najvýznamnejšie medzníky vývoja medzinárodných vzťahov v 30. rokoch",
-        "color": "#9A6324"
+        "color": "#B0C4DE"
     },
     {
         "section": "Nástup fašizmu v Taliansku a vnútropolitický vývoj Talianska v období fašizmu",
-        "color": "#FFFAC8"
+        "color": "#FFFACD"
     },
     {
         "section": "Taliansko a útok do Etiópie",
-        "color": "#800000"
+        "color": "#FFC0CB"
     },
     {
         "section": "Nastolenie fašistickej diktatúry v Nemecku a vývoj v Nemecku v rokoch 1933-1939",
-        "color": "#AAFFC3"
+        "color": "#F5DEB3"
     },
     {
         "section": "Vnútropolitický vývoj Nemecka v období Weimarskej republiky",
-        "color": "#808000"
+        "color": "#98FB98"
     },
     {
         "section": "Vnútropolitický vývoj USA",
-        "color": "#FFD8B1"
+        "color": "#ADD8E6"
     },
     {
         "section": "Vnútropolitický vývoj VB",
-        "color": "#8b7dec"
+        "color": "#F08080"
     },
     {
         "section": "Vnútropolitický vývoj FR",
-        "color": "#A9A9A9"
+        "color": "#E6E6FA"
     },
     {
         "section": "Vývoj v Európe v 1919",
-        "color": "#FFD700"
+        "color": "#7FFFD4"
     },
     {
         "section": "Vývoj ZSSR v medzivojnovom období",
-        "color": "#FF4500"
+        "color": "#FFE4E1"
     },
     {
         "section": "Občianska vojna v Španielsku",
-        "color": "#42D4F4"
+        "color": "#FAFAD2"
     },
     {
         "section": "Politika svetových veľmocí v rokoch 1938-1939",
-        "color": "#BFEF45"
+        "color": "#BDB76B"
     },
     {
         "section": "Príčiny, etapy, charakter II. sv. vojny",
-        "color": "#FABED4"
+        "color": "#DEB887"
     },
     {
         "section": "Vývoj politických a vojenských udalostí v prvej etape vojny - 1939-1941",
-        "color": "#469990"
+        "color": "#7B68EE"
     },
     {
         "section": "Vývoj politických a vojenských udalostí v druhej etape vojny",
-        "color": "#DCBEFF"
+        "color": "#00CED1"
     },
     {
         "section": "Vývoj politických a vojenských udalostí v tretej etape vojny",
-        "color": "#9A6324"
+        "color": "#FF8C00"
     },
     {
         "section": "Vývoj politických a vojenských udalostí v štvrtej etape vojny",
-        "color": "#800000"
+        "color": "#ADFF2F"
     },
     {
         "section": "Vývoj politických a vojenských udalostí v piatej etape vojny",
-        "color": "#AAFFC3"
+        "color": "#F4A460"
     },
     {
         "section": "Útok Nemecka na ZSSR a priebeh boja na východnom fronte",
-        "color": "#808000"
+        "color": "#CD5C5C"
     },
     {
-        "section": "Formovanie protihitlerovskej koalície",
-        "color": "#FFD8B1"
+        "section": "Formovanie protihitlerovskej koalície základné zmluvy, konferencie",
+        "color": "#48D1CC"
     },
     {
         "section": "Priebeh najdôležitejších vojenských operácií aj na mimoeurópskych bojiskách Stredomorie",
-        "color": "#8b7dec"
+        "color": "#BC8F8F"
     },
     {
         "section": "Tichomorie",
-        "color": "#A9A9A9"
+        "color": "#DB7093"
     },
     {
         "section": "Afrika",
-        "color": "#FFD700"
+        "color": "#8FBC8F"
     },
     {
         "section": "Tri konferencie veľkej trojky – Teherán",
-        "color": "#FF4500"
+        "color": "#B0E0E6"
     },
     {
         "section": "Jaltská konferencia",
-        "color": "#E6194B"
+        "color": "#DA70D6"
     },
     {
         "section": "Postupimská konferencia",
-        "color": "#3CB44B"
+        "color": "#EEE8AA"
     },
     {
         "section": "Stalingradská bitka",
-        "color": "#FFE119"
+        "color": "#FFDAB9"
     },
     {
         "section": "Vylodenie v Normandii a utvorenie druhého frontu",
-        "color": "#4363D8"
+        "color": "#9370DB"
     },
     {
-        "section": "Najväčšie bitky na východnom fronte",
-        "color": "#F58231"
+        "section": "Najväčšie bitky na východnom fronte ktoré, ako prebiehali, kedy",
+        "color": "#3CB371"
     },
     {
         "section": "Najväčšie bitky v Pacifiku",
-        "color": "#911EB4"
+        "color": "#20B2AA"
     },
     {
-        "section": "Najväčšie bitky v Stredomorí",
-        "color": "#46F0F0"
+        "section": "Najväčsie bitky v Stredomorí",
+        "color": "#F0FFF0"
     },
     {
-        "section": "Priebeh posledných vojenských operácií v Európe (bitka o Berlín)",
-        "color": "#F032E6"
+        "section": "Priebeh posledných vojenských operácií v Európe (bitka o Berlín) a ukončenie vojny v Európe",
+        "color": "#F5F5DC"
     },
     {
         "section": "Riešenie nemeckej otázky na Jalte a Postupime",
-        "color": "#BCF60C"
+        "color": "#F0F8FF"
     },
     {
-        "section": "Vznik OSN a hlavný dokument OSN",
-        "color": "#FABEBE"
+        "section": "Vznik OSN a hlavný dokument OSN - čo obsahoval",
+        "color": "#FF7F50"
     },
     {
         "section": "Studená vojna – príčiny",
-        "color": "#008080"
+        "color": "#6495ED"
     },
     {
-        "section": "Charakterizovať podrobnejšie prechod od svetovej vojny k studenej",
-        "color": "#E6BEFF"
+        "section": "Charakterizovať podrobnejšie prechod od svetovej vojny k studenej – 1945 – 1949",
+        "color": "#DC143C"
     },
     {
         "section": "Stručná charakteristika jednotlivých etáp studenej vojny",
-        "color": "#9A6324"
+        "color": "#00BFFF"
     }
 ]
