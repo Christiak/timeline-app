@@ -1,5 +1,4 @@
-import React from 'react';
-import timelineData from '../../data.json';
+import data from "../../data.json";
 
 type TimelineEntry = {
 	date: string;
@@ -7,13 +6,20 @@ type TimelineEntry = {
 	color: string;
 };
 
-const entries = timelineData as TimelineEntry[];
+type EventListProps = {
+  selectedColors: string[]
+}
 
-const Timeline: React.FC = () => {
-	return (
-		<div className='pt-6'>
+const EventList = ({ selectedColors }: EventListProps) => {
+  const filteredData: TimelineEntry[] =
+    selectedColors.length === 0
+      ? data
+      : data.filter(item => selectedColors.includes(item.color))
+
+  return (
+    <div className='pt-6'>
 			<ul className="space-y-0">
-				{entries.map((entry, index) => (
+				{filteredData.map((entry, index) => (
 					<li
 						key={index}
 						className="relative flex items-center gap-3 py-1.5 pl-6 text-sm"
@@ -38,8 +44,8 @@ const Timeline: React.FC = () => {
 					</li>
 				))}
 			</ul>
-		</div>
-	)
+		</div>		
+  )
 }
 
-export default Timeline;
+export default EventList

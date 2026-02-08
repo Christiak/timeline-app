@@ -2,12 +2,12 @@
     {
         "date": "8. januára 1918",
         "description": "Prezident Wilson predniesol v Kongrese USA svoj program 14 bodov.",
-        "color": "#E6194B"
+        "color": "#E6194A"
     },
     {
         "date": "11. novembra 1918",
         "description": "Prvá svetová vojna sa skončila podpísaním prímerím s Nemeckom.",
-        "color": "#E6194B"
+        "color": "#E6194A"
     },
     {
         "date": "9. novembra 1918",
@@ -17,12 +17,12 @@
     {
         "date": "18. januára 1919",
         "description": "Oficiálne otvorenie Parížskej mierovej konferencie vo Francúzsku.",
-        "color": "#E6194B"
+        "color": "#E6194A"
     },
     {
         "date": "14. februára 1919",
         "description": "Prijatie a zverejnenie paktu Spoločnosti národov.",
-        "color": "#E6194B"
+        "color": "#E6194A"
     },
     {
         "date": "Marec 1919",
@@ -32,7 +32,7 @@
     {
         "date": "28. apríla 1919",
         "description": "Schválenie Paktu Spoločnosti národov a jeho zahrnutie do mierových zmlúv.",
-        "color": "#E6194B"
+        "color": "#E6194A"
     },
     {
         "date": "28. júna 1919",
@@ -52,7 +52,7 @@
     {
         "date": "10. januára 1920",
         "description": "Oficiálne založenie a vznik Spoločnosti národov.",
-        "color": "#FFE119"
+        "color": "#FFE120"
     },
     {
         "date": "4. júna 1920",
@@ -67,12 +67,12 @@
     {
         "date": "12. novembra 1921",
         "description": "Začiatok Washingtonskej námornej konferencie o odzbrojení.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "13. decembra 1921",
         "description": "Uzavretie Zmluvy štyroch mocností o zachovaní status quo v Tichomorí.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "Január 1922",
@@ -82,27 +82,27 @@
     {
         "date": "6. februára 1922",
         "description": "Podpísanie Zmluvy piatich mocností o limite námorných síl a Zmluvy deviatich mocností o Číne.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "10. apríla 1922",
         "description": "Začiatok Janovskej hospodárskej konferencie s účasťou 29 štátov.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "16. apríla 1922",
         "description": "Podpísanie Rapallskej zmluvy medzi Nemeckom a sovietskym Ruskom.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "19. mája 1922",
         "description": "Ukončenie Janovskej konferencie bez výraznejšieho úspechu.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "20. novembra 1922",
         "description": "Otvorenie mierovej konferencie v Lausanne o novej zmluve s Tureckom.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "30. decembra 1922",
@@ -117,12 +117,12 @@
     {
         "date": "4. februára 1923",
         "description": "Stretnutie predstaviteľov VB a Turecka ohľadom nároku na región Mosul.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "24. júla 1923",
         "description": "Ukončenie konferencie v Lausanne a prijatie Dohovoru o úžinách.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "1924",
@@ -132,22 +132,22 @@
     {
         "date": "9. februára 1925",
         "description": "Gustav Stresemann podal memorandum o ochote garantovať hranice na Rýne.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "5. októbra 1925",
         "description": "Začiatok konferencie v Locarne o bezpečnostných zárukách.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "16. októbra 1925",
         "description": "Ukončenie rokovaní v Locarne a prijatie siedmich dokumentov.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "1. decembra 1925",
         "description": "Formálny podpis Locarnských dohôd v Londýne.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "Apríl 1926",
@@ -392,7 +392,7 @@
     {
         "date": "10. apríla 1922",
         "description": "Začiatok Janovskej hospodárskej konferencie s cieľom obnovy Európy.",
-        "color": "#46F0F0"
+        "color": "#46F0FA"
     },
     {
         "date": "Október 1922",
